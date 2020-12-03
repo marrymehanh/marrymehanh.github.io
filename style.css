@@ -43,6 +43,7 @@ footer{
     margin-top: 2%;
     margin-bottom: 2%;
     background-color:#E5F7E8;
+    padding-bottom: 2%;
 }
 .hidden {
     display: none;
@@ -151,7 +152,8 @@ footer{
 }
 
 .faq .card .card-body p {
-  margin-bottom: 14px;
+  margin: 14px 1%;
+  font-size: 1em;
 }
 
 @media (max-width: 991px) {
