@@ -23,7 +23,7 @@ h4 {
 }
 p {
     font-size: 1.2em;
-    margin: 1% 20%;
+    margin: 1% 10%;
 }
 li {
     font-size: 1.2em;
@@ -44,6 +44,7 @@ footer{
     margin-bottom: 2%;
     background-color:#E5F7E8;
     padding-bottom: 2%;
+    border-radius: 4px;
 }
 .hidden {
     display: none;
@@ -100,7 +101,7 @@ footer{
 }
 
 .faq .card .card-header:hover {
-    background: rgba(233, 30, 99, 0.1);
+    background: #F2FFF5;
     padding-left: 10px;
 }
 .faq .card .card-header .faq-title {
@@ -111,6 +112,7 @@ footer{
   padding-right: 30px;
   font-weight: 400;
   font-size: 15px;
+  line-height: 30px;
   letter-spacing: 1px;
   color: #3B566E;
   text-decoration: none !important;
@@ -121,6 +123,7 @@ footer{
   cursor: pointer;
   padding-top: 20px;
   padding-bottom: 20px;
+  margin-bottom: 0;
 }
 
 .faq .card .card-header .faq-title .badge {
